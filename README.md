@@ -1,4 +1,4 @@
-# VSM homeworks 2021 (frycodmi, hojektom, pickaja3)
+# VSM homeworks 2021 (frycdomi, hojektom, pickaja3)
 
 ## Prepare projects
 
