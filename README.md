@@ -2,6 +2,8 @@
 
 ## Prepare projects
 
+0. Install Python: https://www.python.org/downloads/
+
 ### Linux
 
 1. Create virtual environment
