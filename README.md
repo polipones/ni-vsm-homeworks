@@ -1,5 +1,7 @@
 # VSM homeworks 2021 (frycdomi, hojektom, pickaja3)
 
+Source files: [011.txt](source/011.txt), [006.txt](source/006.txt)
+
 ## Prepare projects
 
 0. Install Python: https://www.python.org/downloads/
