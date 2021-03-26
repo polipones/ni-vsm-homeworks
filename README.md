@@ -40,4 +40,7 @@ Stop server with Ctrl+C.
 
 ## Jupyter Notebooks
 
-TODO
+[HW01](hw01/hw01.ipynb)\
+HW02 - TBD\
+HW03 - TBD\
+HW04 - TBD
