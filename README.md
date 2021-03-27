@@ -28,7 +28,23 @@ pip install -r requirements.txt
 
 ### Windows
 
-TODO
+1. Create virtual environment
+
+```bash
+python -m venv venv
+```
+
+2. Activate venv
+
+```bash
+venv\Scripts\activate.bat
+```
+
+3. Install requirements
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Run Jupyter
 
