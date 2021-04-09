@@ -58,7 +58,7 @@ Stop server with Ctrl+C.
 
 ## Jupyter Notebooks
 
-[HW01](hw01/hw01.ipynb)\
-[HW02](hw02/hw02.ipynb)\
+[HW01](https://nbviewer.jupyter.org/urls/gitlab.fit.cvut.cz/pickaja3/ni-vsm-homeworks/raw/main/hw01/hw01.ipynb)  
+[HW02](https://nbviewer.jupyter.org/urls/gitlab.fit.cvut.cz/pickaja3/ni-vsm-homeworks/raw/main/hw02/hw02.ipynb)  
 HW03 - TBD\
 HW04 - TBD
