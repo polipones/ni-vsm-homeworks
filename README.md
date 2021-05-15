@@ -61,4 +61,4 @@ Stop server with Ctrl+C.
 [HW01](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw01/hw01.ipynb)  
 [HW02](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw02/hw02.ipynb)  
 [HW03](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw03/hw03.ipynb)  
-HW04 - TBD
+[HW04](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw04/hw04.ipynb)
