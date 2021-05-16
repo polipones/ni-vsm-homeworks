@@ -58,7 +58,7 @@ Stop server with Ctrl+C.
 
 ## Jupyter Notebooks
 
-[HW01](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw01/hw01.ipynb)  
-[HW02](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw02/hw02.ipynb)  
-[HW03](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw03/hw03.ipynb)  
-[HW04](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw04/hw04.ipynb)
+[HW01](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw01/hw01.ipynb?flush_cache=true)  
+[HW02](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw02/hw02.ipynb?flush_cache=true)  
+[HW03](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw03/hw03.ipynb?flush_cache=true)  
+[HW04](https://nbviewer.jupyter.org/github/polipones/ni-vsm-homeworks/blob/main/hw04/hw04.ipynb?flush_cache=true)
